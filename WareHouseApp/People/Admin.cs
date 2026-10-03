@@ -1,35 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace WareHouseApp.People
+﻿namespace WareHouseApp.People
 {
-    class Admin : Person
+    public class Admin : Person
     {
-        
-
         public override bool Login(string username, string password)
         {
-            if(username == "Admin" && password == "admin123")
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return AuthenticateCredentials(username, password);
         }
 
         public override void ChangePassword(string newPassword)
         {
-            throw new NotImplementedException();
+            ChangeStoredPassword(newPassword);
         }
 
         public override void Logout(int userID)
         {
-            throw new NotImplementedException();
+            EndSession(userID);
         }
     }
 }

@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
+using WareHouseApp.Data;
 
 namespace WareHouseApp
 {
@@ -14,6 +12,7 @@ namespace WareHouseApp
         [STAThread]
         static void Main()
         {
+            WarehouseDatabase.Initialize();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());

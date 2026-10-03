@@ -1,0 +1,15 @@
+C:\Users\heysa\OneDrive\Desktop\CS107.3 Object Oriented Programming with C#\WareHouseApp-coursework\WareHouseApp-coursework\WareHouseApp\bin\Debug\WarehouseDB.mdf
+C:\Users\heysa\OneDrive\Desktop\CS107.3 Object Oriented Programming with C#\WareHouseApp-coursework\WareHouseApp-coursework\WareHouseApp\bin\Debug\WarehouseDB_log.ldf
+C:\Users\heysa\OneDrive\Desktop\CS107.3 Object Oriented Programming with C#\WareHouseApp-coursework\WareHouseApp-coursework\WareHouseApp\bin\Debug\WareHouseApp.exe.config
+C:\Users\heysa\OneDrive\Desktop\CS107.3 Object Oriented Programming with C#\WareHouseApp-coursework\WareHouseApp-coursework\WareHouseApp\bin\Debug\WareHouseApp.exe
+C:\Users\heysa\OneDrive\Desktop\CS107.3 Object Oriented Programming with C#\WareHouseApp-coursework\WareHouseApp-coursework\WareHouseApp\bin\Debug\WareHouseApp.pdb
+C:\Users\heysa\OneDrive\Desktop\CS107.3 Object Oriented Programming with C#\WareHouseApp-coursework\WareHouseApp-coursework\WareHouseApp\obj\Debug\WareHouseApp.csproj.AssemblyReference.cache
+C:\Users\heysa\OneDrive\Desktop\CS107.3 Object Oriented Programming with C#\WareHouseApp-coursework\WareHouseApp-coursework\WareHouseApp\obj\Debug\WareHouseApp.CustomerForm.resources
+C:\Users\heysa\OneDrive\Desktop\CS107.3 Object Oriented Programming with C#\WareHouseApp-coursework\WareHouseApp-coursework\WareHouseApp\obj\Debug\WareHouseApp.DashBoard.resources
+C:\Users\heysa\OneDrive\Desktop\CS107.3 Object Oriented Programming with C#\WareHouseApp-coursework\WareHouseApp-coursework\WareHouseApp\obj\Debug\WareHouseApp.Form1.resources
+C:\Users\heysa\OneDrive\Desktop\CS107.3 Object Oriented Programming with C#\WareHouseApp-coursework\WareHouseApp-coursework\WareHouseApp\obj\Debug\WareHouseApp.MainDash.resources
+C:\Users\heysa\OneDrive\Desktop\CS107.3 Object Oriented Programming with C#\WareHouseApp-coursework\WareHouseApp-coursework\WareHouseApp\obj\Debug\WareHouseApp.Properties.Resources.resources
+C:\Users\heysa\OneDrive\Desktop\CS107.3 Object Oriented Programming with C#\WareHouseApp-coursework\WareHouseApp-coursework\WareHouseApp\obj\Debug\WareHouseApp.csproj.GenerateResource.cache
+C:\Users\heysa\OneDrive\Desktop\CS107.3 Object Oriented Programming with C#\WareHouseApp-coursework\WareHouseApp-coursework\WareHouseApp\obj\Debug\WareHouseApp.csproj.CoreCompileInputs.cache
+C:\Users\heysa\OneDrive\Desktop\CS107.3 Object Oriented Programming with C#\WareHouseApp-coursework\WareHouseApp-coursework\WareHouseApp\obj\Debug\WareHouseApp.exe
+C:\Users\heysa\OneDrive\Desktop\CS107.3 Object Oriented Programming with C#\WareHouseApp-coursework\WareHouseApp-coursework\WareHouseApp\obj\Debug\WareHouseApp.pdb
